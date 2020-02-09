@@ -8,6 +8,7 @@ LessWrong and the EA Forum both provide a [GraphQL API](https://www.lesswrong.co
 Note that some early posts have dates prior to the creation of the forum. This is because, early on, the post dates were manually modified to reflect when the pieces were written rather than their posting dates to the forum. For example, Yudkowsky's [guide to Bayes's theorem](https://www.lesswrong.com/posts/XTXWPQSEgoMkAupKt/an-intuitive-explanation-of-bayes-s-theorem) is dated as from 2003, because that is when it was [originally posted to his personal website](http://yudkowsky.net/rational/bayes/).
 
 ## LessWrong
+
 | Year | Posts |
 |--|--|
 | 2003 | 1 |
@@ -29,6 +30,7 @@ Note that some early posts have dates prior to the creation of the forum. This i
 | 2020 (up to Feb 8) | 274 |
 
 ## EA Forum
+
 | Year | Posts |
 |--|--|
 | 2011 | 1 |
